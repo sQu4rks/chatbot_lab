@@ -1,0 +1,5 @@
+mindmeld==4.2.9
+webexteamssdk
+flask
+dnacentersdk
+beautifulsoup4

@@ -1,0 +1,6 @@
+---
+    hooks:
+      - name: "message hook"
+        resource: "messages"
+        event: "created"
+        target_url: "{{ remote_prefix }}/webex/message"

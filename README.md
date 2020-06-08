@@ -1,4 +1,4 @@
-## Lab - Let's Build A Chatbot in 90 Minutes
+## PUD Lab - Let's Build A Chatbot in 90 Minutes
 
 Hello and welcome to this lab on building a chat bot in 90 minutes. In this
 session we will go over the different types of chat bots, see real-world 

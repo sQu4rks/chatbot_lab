@@ -1,0 +1,7 @@
+What happend {yesterday|sys_time}
+What happend {last monday|sys_time}
+What happend on {21.04.2010|sys_time}
+On {April, 7|sys_time}
+On {monday|sys_time}
+Which event was on {April, 10|sys_time}
+Which event was on {May, 12|sys_time}
